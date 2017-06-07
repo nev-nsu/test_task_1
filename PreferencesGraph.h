@@ -1,11 +1,10 @@
-#ifndef TEST_KONTUR2_PREFERENCESGRAPH_H
-#define TEST_KONTUR2_PREFERENCESGRAPH_H
+#ifndef PREFERENCESGRAPH_H
+#define PREFERENCESGRAPH_H
 
 
 #include <unordered_map>
 #include <vector>
 #include <set>
-#include <bits/unordered_map.h>
 
 class PreferencesGraph {
 private:
@@ -30,4 +29,4 @@ public:
 };
 
 
-#endif //TEST_KONTUR2_PREFERENCESGRAPH_H
+#endif
